@@ -1,0 +1,21 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+
+# log / output
+*.cls
+*.aux
+*.bbl
+*.blg
+*.log
+*.synctex.gz
+*.gz
+*.pdf
+*.npy
+.DS_Store
+
+# IntelliJ project files
+.idea
+*.iml
+out
+gen
+
