@@ -10,4 +10,6 @@ To run this code you need `Python 3.9` or higher. For executing the code follow 
 
 The parameters of the problem can be modified in `params.py`.
 ## Reference
+If you use this code in your research, we would appreciate your citations to the following papers:
+
 [1] Alireza Zolanvari and Ashish Cherukuri. "Iterative risk-constrained model predictive control: A data-driven distributionally robust approach." In 2022 European Control Conference (ECC) (pp. 1578-1583). [[PDF]](https://arxiv.org/pdf/2111.12977)
