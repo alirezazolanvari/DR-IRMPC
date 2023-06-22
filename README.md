@@ -1,6 +1,6 @@
 # DR-IRMPC
 ## Overview
-This repository is about to share the source code of the simulation section of article [[1]](https://github.com/alirezazolanvari/DR-IRMPC#Reference). In this example, we use DR-IRMPC to steer two agents toward their targets in the presence of a randomly-moving obstacle. For more details please check [[1]](https://github.com/alirezazolanvari/DR-IRMPC#Reference).
+This repository is about to share the source code of the simulation section of article [[1]](https://github.com/alirezazolanvari/DR-IRMPC/blob/main/README.md#reference). In this example, we use DR-IRMPC to steer two agents toward their targets in the presence of a randomly-moving obstacle. For more details please check [[1]](https://github.com/alirezazolanvari/DR-IRMPC/blob/main/README.md#reference).
 ## Prerequisites and usage
 To run this code you need `Python 3.9` or higher. For executing the code follow these steps:
   1. Go to the project's directory.
