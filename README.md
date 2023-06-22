@@ -7,6 +7,7 @@ To run this code you need `Python 3.9` or higher. For executing the code follow 
   2. Install the requirements: `pip install -r requirements.txt`.
   3. Change the working directory to the source folder: `cd source`.
   4. Run the `main_multi_agent.py` file: `python main_multi_agent.py`.
+
 The parameters of the problem can be modified in `params.py`.
 ## Reference
 [1] Alireza Zolanvari and Ashish Cherukuri. "Iterative risk-constrained model predictive control: A data-driven distributionally robust approach." In 2022 European Control Conference (ECC) (pp. 1578-1583). [[PDF]](https://arxiv.org/pdf/2111.12977)
